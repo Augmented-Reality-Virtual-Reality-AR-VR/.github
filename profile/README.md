@@ -88,29 +88,29 @@
    - [Adobe Creative Cloud](https://www.adobe.com/creativecloud/tools.html)
    - [Dribbble](https://dribbble.com/)
    - [Behance](https://www.behance.net/)
-Data Science and Machine Learning:
+4. **Data Science and Machine Learning:**
 Kaggle - Data science competitions and datasets.
 Towards Data Science - Medium publication for data science articles.
 Fast.ai - Practical deep learning for coders.
-Technology News and Trends:
+5. **Technology News and Trends:**
 TechCrunch - Technology news and analysis.
 Ars Technica - News and analysis of technology trends.
 The Verge - Technology, science, art, and culture news.
-Project Management and Collaboration:
+6. **Project Management and Collaboration:**
 Trello - Collaborative project management.
 Asana - Project management and team collaboration.
 Slack - Team communication and collaboration.
-Podcasts and Video Content:
+7. **Podcasts and Video Content:**
 TED Talks - Inspirational talks on various subjects.
 YouTube - Educational channels and tutorials.
 Podcasts (e.g., Software Engineering Daily, The Changelog)
-Open Source Contributions:
+8. **Open Source Contributions:**
 First Timers Only - Resources for first-time open-source contributors.
 Up for Grabs - List of projects with tasks suitable for new contributors.
-Language Learning:
+9. **Language Learning:**
 Duolingo - Language learning app.
 Memrise - Language learning with a focus on vocabulary.
-Career Development:
+10. **Career Development:**
 LinkedIn Learning - Professional development courses.
 Glassdoor - Company reviews and salary information.
 Feel free to explore these resources to enhance your skills and stay updated on the latest trends in R, AR, and VR!
