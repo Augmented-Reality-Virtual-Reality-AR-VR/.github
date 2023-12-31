@@ -76,7 +76,7 @@
 ## Useful resources 👩‍💻 :computer: :books: :tools:
 
 1. **Learning Platforms:**
-       -  [Coursera][https://www.coursera.org/]
+       -  [Coursera](https://www.coursera.org/)
 
    [1]: [https://www.coursera.org/]
       -   Coursera (https://www.coursera.org/)
