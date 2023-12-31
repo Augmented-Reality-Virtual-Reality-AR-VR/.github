@@ -127,7 +127,7 @@ Here are some fun facts across different categories:
    - There's a planet named "HD 189733b" where it rains glass sideways.
 3. **Technology**
    - The first computer programmer was Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine.
-   -The first camera took eight hours to capture a single photograph.
+   - The first camera took eight hours to capture a single photograph.
 4. **Nature**
    - Bananas are berries, but strawberries aren't.
    - A group of flamingos is called a "flamboyance."
