@@ -77,9 +77,9 @@
 
 1. **Learning Platforms:**
    - [Coursera](https://www.coursera.org/)
-   - [edX] (https://https://www.edx.org/)
-   - [Udacity] (https://www.udacity.com/)
-   - [Khan Academy] (https://www.khanacademy.org/)
+   - [edX](https://https://www.edx.org/)
+   - [Udacity](https://www.udacity.com/)
+   - [Khan Academy](https://www.khanacademy.org/)
   
 Programming and Development:
 GitHub - Version control and collaboration.
