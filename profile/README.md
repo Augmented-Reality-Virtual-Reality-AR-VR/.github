@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## Introduction🙋‍♀️:tada::tada::tada::tada::tada:
+## Introduction🙋‍♀️ :tada::tada::tada::tada::tada:
 
 <p align="justify">
    Offered in collaboration with iHub DivyaSampark at IIT Roorkee, the Augmented & Virtual Reality Certification Course in India 
