@@ -32,43 +32,43 @@
 
 Here are some common elements often found in contribution guidelines:
 
-1. **Overview:**
+1. **Overview**
    - Begin with a brief overview of the project, its goals, and the types of contributions that are welcome.
 
-2. **Prerequisites:**
+2. **Prerequisites**
    - Clearly state any prerequisites or requirements contributors need to meet before getting started. This may include technical skills, knowledge of specific tools, or adherence to a particular coding style.
 
-3. **Getting Started:**
+3. **Getting Started**
    - Provide step-by-step instructions on how contributors can set up their development environment, clone the repository, and start making contributions.
 
-4. **Issue Tracking:**
+4. **Issue Tracking**
    -  Explain the process for reporting issues or suggesting new features. Include information on how issues are labeled, prioritized, and assigned to contributors.
 
-5. **Branching and Workflow:**
+5. **Branching and Workflow**
    -  Define the branching strategy and workflow for making contributions. This may include details on how to create feature branches, submit pull requests, and handle code reviews.
 
-6. **Coding Standards:**
+6. **Coding Standards**
    -  Specify any coding standards or style guides that contributors should follow to ensure consistency across the codebase.
 
-7. **Testing Guidelines:**
+7. **Testing Guidelines**
    -  Outline the testing requirements for contributions, including how to run tests locally and how to add new tests when introducing new features or fixing bugs.
 
-8. **Documentation:**
+8. **Documentation**
    -  Emphasize the importance of good documentation and provide guidance on how to update or create documentation for code changes.
 
-9. **Code Review Process:**
+9. **Code Review Process**
     -  Explain how the code review process works, including expectations for timely responses, incorporating feedback, and addressing comments from reviewers.
 
-10. **License and Legal Matters:**
+10. **License and Legal Matters**
     -  Clearly state the project's license and any legal considerations contributors should be aware of when making contributions.
 
-11. **Communication Channels:**
+11. **Communication Channels**
     -  Provide information on communication channels such as mailing lists, forums, or chat platforms where contributors can seek help, discuss ideas, or collaborate with other members of the community.
 
-12. **Acknowledgments:**
+12. **Acknowledgments**
     - Express gratitude for contributions and acknowledge the efforts of individual contributors. This can include a contributor list or a Hall of Fame.
 
-13. **Code of Conduct:**
+13. **Code of Conduct**
     -  Include a link to the project's code of conduct, which outlines the expected behavior and sets the tone for respectful and inclusive collaboration.
    
       
