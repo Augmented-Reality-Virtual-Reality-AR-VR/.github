@@ -74,42 +74,42 @@ Here are some common elements often found in contribution guidelines:
       
 ## Useful Resources 👩‍💻 :computer: :books: 
 
-1. **Learning Platforms:**
+1. **Learning Platforms**
    - [Coursera](https://www.coursera.org/)
    - [edX](https://https://www.edx.org/)
    - [Udacity](https://www.udacity.com/)
    - [Khan Academy](https://www.khanacademy.org/)
-2. **Programming and Development:**
+2. **Programming and Development**
    - [GitHub](https://github.com/) - Version control and collaboration.
    - [Stack Overflow](https://stackoverflow.com/) - Q&A community for programming.
    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) - Web development documentation.
-3. **Design and Creativity:**
+3. **Design and Creativity**
    - [Adobe Creative Cloud](https://www.adobe.com/creativecloud/tools.html) - Creative tools for design.
    - [Dribbble](https://dribbble.com/) - Show and tell for designers.
    - [Behance](https://www.behance.net/) - Platform for creative professionals.
-4. **Data Science and Machine Learning:**
+4. **Data Science and Machine Learning**
    - [Kaggle](https://www.kaggle.com/) - Data science competitions and datasets.
    - [Towards Data Science](https://towardsdatascience.com/) - Medium publication for data science articles.
    - [Fast.ai](https://www.fast.ai/) - Practical deep learning for coders.
-5. **Technology News and Trends:**
+5. **Technology News and Trends**
    - [TechCrunch](https://techcrunch.com/) - Technology news and analysis.
    - [Ars Technica](https://arstechnica.com/) - News and analysis of technology trends.
    - [The Verge](https://www.theverge.com/) - Technology, science, art, and culture news.
-6. **Project Management and Collaboration:**
+6. **Project Management and Collaboration**
    - [Trello](https://trello.com/) - Collaborative project management.
    - [Asana](https://asana.com/) - Project management and team collaboration.
    - [Slack](https://slack.com/intl/en-in/) - Team communication and collaboration.
-7. **Podcasts and Video Content:**
+7. **Podcasts and Video Content**
    - [TED Talks](https://www.ted.com/playlists/171/the_most_popular_ted_talks_of_all_time) - Inspirational talks on various subjects.
    - [YouTube](https://www.youtube.com/) - Educational channels and tutorials.
    - [Podcasts](e.g., Software Engineering Daily, The Changelog)
-8. **Open Source Contributions:**
+8. **Open Source Contributions**
    - [First Timers Only](https://www.firsttimersonly.com/) - Resources for first-time open-source contributors.
    - [Up for Grabs](https://up-for-grabs.net/) - List of projects with tasks suitable for new contributors.
-9. **Language Learning:**
+9. **Language Learning**
    - [Duolingo](https://www.duolingo.com/) - Language learning app.
    - [Memrise](https://www.memrise.com/) - Language learning with a focus on vocabulary.
-10. **Career Development:**
+10. **Career Development**
       - [LinkedIn Learning](https://www.linkedin.com/learning/topics/professional-development) - Professional development courses.
       - [Glassdoor](https://www.glassdoor.co.in/index.htm) - Company reviews and salary information.
 
@@ -119,34 +119,34 @@ Feel free to explore these resources to enhance your skills and stay updated on 
 
 Here are some fun facts across different categories:
 
-1. **Animal Kingdom:**
+1. **Animal Kingdom**
    - Honeybees can recognize human faces.
    - Octopuses have three hearts.
-2. **Space:**
+2. **Space**
    - A day on Venus (one full rotation) is longer than a year on Venus (one full orbit around the Sun).
    - There's a planet named "HD 189733b" where it rains glass sideways.
-3. **Technology:**
+3. **Technology**
    - The first computer programmer was Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine.
    -The first camera took eight hours to capture a single photograph.
-4. **Nature:**
+4. **Nature**
    - Bananas are berries, but strawberries aren't.
    - A group of flamingos is called a "flamboyance."
-5. **Language:**
+5. **Language**
    - The sentence "The quick brown fox jumps over a lazy dog" uses every letter in the English alphabet.
    - The word "nerd" was first coined by Dr. Seuss in "If I Ran the Zoo."
-6. **Human Body:**
+6. **Human Body**
    - Humans and giraffes have the same number of neck vertebrae.
    - The human brain is more active during sleep than during the day when awake.
-7. **History:**
+7. **History**
    - Cleopatra lived closer to the moon landing than to the construction of the Great Pyramid.
    - The Great Wall of China is not visible from the moon with the naked eye.
-8. **Random Facts:**
+8. **Random Facts**
    - There are more possible iterations of a game of chess than there are atoms in the observable universe.
    - The world's largest desert is Antarctica.
-9. **Entertainment:**
+9. **Entertainment**
    - The voice actors for Mickey Mouse and Minnie Mouse got married in real life.
    - The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.
-10. **Food:**
+10. **Food**
       - Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
       - The world's most expensive coffee is made using civet poop. The beans are eaten by a civet, fermented in its digestive system, and then excreted.
 
