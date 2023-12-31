@@ -75,11 +75,11 @@
       
 ## Useful resources 👩‍💻 :computer: :books: :tools:
 
-Learning Platforms:
-Coursera
-edX
-Udacity
-Khan Academy
+1. **Learning Platforms:**
+      -   Coursera(https://www.coursera.org/)
+      -   edX
+      -   Udacity
+      -   Khan Academy
 Programming and Development:
 GitHub - Version control and collaboration.
 Stack Overflow - Q&A community for programming.
