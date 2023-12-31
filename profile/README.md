@@ -73,7 +73,47 @@
     -  Include a link to the project's code of conduct, which outlines the expected behavior and sets the tone for respectful and inclusive collaboration.
    
       
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+## Useful resources 👩‍💻 :computer: :books: :tools:
+
+Learning Platforms:
+Coursera
+edX
+Udacity
+Khan Academy
+Programming and Development:
+GitHub - Version control and collaboration.
+Stack Overflow - Q&A community for programming.
+MDN Web Docs - Web development documentation.
+Design and Creativity:
+Adobe Creative Cloud - Creative tools for design.
+Dribbble - Show and tell for designers.
+Behance - Platform for creative professionals.
+Data Science and Machine Learning:
+Kaggle - Data science competitions and datasets.
+Towards Data Science - Medium publication for data science articles.
+Fast.ai - Practical deep learning for coders.
+Technology News and Trends:
+TechCrunch - Technology news and analysis.
+Ars Technica - News and analysis of technology trends.
+The Verge - Technology, science, art, and culture news.
+Project Management and Collaboration:
+Trello - Collaborative project management.
+Asana - Project management and team collaboration.
+Slack - Team communication and collaboration.
+Podcasts and Video Content:
+TED Talks - Inspirational talks on various subjects.
+YouTube - Educational channels and tutorials.
+Podcasts (e.g., Software Engineering Daily, The Changelog)
+Open Source Contributions:
+First Timers Only - Resources for first-time open-source contributors.
+Up for Grabs - List of projects with tasks suitable for new contributors.
+Language Learning:
+Duolingo - Language learning app.
+Memrise - Language learning with a focus on vocabulary.
+Career Development:
+LinkedIn Learning - Professional development courses.
+Glassdoor - Company reviews and salary information.
+Feel free to explore these resources to enhance your skills and stay updated on the latest trends in R, AR, and VR!
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
