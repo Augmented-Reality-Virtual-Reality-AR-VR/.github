@@ -27,10 +27,10 @@
    Contribution guidelines typically refer to a set of instructions or recommendations that outline how 
    individuals can contribute effectively to a project, community, or open-source initiative. These guidelines 
    serve as a roadmap for contributors, helping them understand the expectations, processes, and best practices 
-   for participating in a collaborative effort. While specific guidelines can vary depending on the context, here 
-   are some common elements often found in contribution guidelines:
+   for participating in a collaborative effort. While specific guidelines can vary depending on the context, 
 </p>
 
+Here are some common elements often found in contribution guidelines:
 
 1. **Overview:**
    - Begin with a brief overview of the project, its goals, and the types of contributions that are welcome.
