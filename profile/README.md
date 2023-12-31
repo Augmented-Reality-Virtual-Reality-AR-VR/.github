@@ -73,7 +73,7 @@
     -  Include a link to the project's code of conduct, which outlines the expected behavior and sets the tone for respectful and inclusive collaboration.
    
       
-## Useful resources 👩‍💻 :computer: :books: 
+## Useful Resources 👩‍💻 :computer: :books: 
 
 1. **Learning Platforms:**
    - [Coursera](https://www.coursera.org/)
@@ -116,7 +116,7 @@
 
 Feel free to explore these resources to enhance your skills and stay updated on the latest trends in R, AR, and VR!
 
-##  Fun facts 🍿 :pizza: :hamburger: :icecream: :coffee:
+##  Fun Facts 🍿 :pizza: :hamburger: :icecream: :coffee:
 
 Here are some fun facts across different categories:
 
