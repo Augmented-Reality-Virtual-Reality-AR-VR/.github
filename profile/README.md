@@ -102,7 +102,7 @@
 7. **Podcasts and Video Content**
    - [TED Talks](https://www.ted.com/playlists/171/the_most_popular_ted_talks_of_all_time) - Inspirational talks on various subjects.
    - [YouTube](https://www.youtube.com/) - Educational channels and tutorials.
-   - [Podcasts](e.g., Software Engineering Daily, The Changelog)
+   - Podcasts (e.g., Software Engineering Daily, The Changelog)
 8. **Open Source Contributions**
    - [First Timers Only](https://www.firsttimersonly.com/) - Resources for first-time open-source contributors.
    - [Up for Grabs](https://up-for-grabs.net/) - List of projects with tasks suitable for new contributors.
