@@ -80,15 +80,14 @@
    - [edX](https://https://www.edx.org/)
    - [Udacity](https://www.udacity.com/)
    - [Khan Academy](https://www.khanacademy.org/)
-  
-Programming and Development:
-GitHub - Version control and collaboration.
-Stack Overflow - Q&A community for programming.
-MDN Web Docs - Web development documentation.
-Design and Creativity:
-Adobe Creative Cloud - Creative tools for design.
-Dribbble - Show and tell for designers.
-Behance - Platform for creative professionals.
+2. **Programming and Development:**
+   - [GitHub](https://github.com/)
+   - [Stack Overflow](https://stackoverflow.com/)
+   - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+3. **Design and Creativity:**
+   - [Adobe Creative Cloud](https://www.adobe.com/creativecloud/tools.html)
+   - [Dribbble](https://dribbble.com/)
+   - [Behance](https://www.behance.net/)
 Data Science and Machine Learning:
 Kaggle - Data science competitions and datasets.
 Towards Data Science - Medium publication for data science articles.
