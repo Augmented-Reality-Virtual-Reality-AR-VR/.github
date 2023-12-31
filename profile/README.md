@@ -81,38 +81,39 @@
    - [Udacity](https://www.udacity.com/)
    - [Khan Academy](https://www.khanacademy.org/)
 2. **Programming and Development:**
-   - [GitHub](https://github.com/)
-   - [Stack Overflow](https://stackoverflow.com/)
-   - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+   - [GitHub](https://github.com/) - Version control and collaboration.
+   - [Stack Overflow](https://stackoverflow.com/) - Q&A community for programming.
+   - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) - Web development documentation.
 3. **Design and Creativity:**
-   - [Adobe Creative Cloud](https://www.adobe.com/creativecloud/tools.html)
-   - [Dribbble](https://dribbble.com/)
-   - [Behance](https://www.behance.net/)
+   - [Adobe Creative Cloud](https://www.adobe.com/creativecloud/tools.html) - Creative tools for design.
+   - [Dribbble](https://dribbble.com/) - Show and tell for designers.
+   - [Behance](https://www.behance.net/) - Platform for creative professionals.
 4. **Data Science and Machine Learning:**
-Kaggle - Data science competitions and datasets.
-Towards Data Science - Medium publication for data science articles.
-Fast.ai - Practical deep learning for coders.
+   - [Kaggle](https://www.kaggle.com/) - Data science competitions and datasets.
+   - [Towards Data Science](https://towardsdatascience.com/) - Medium publication for data science articles.
+   - [Fast.ai](https://www.fast.ai/) - Practical deep learning for coders.
 5. **Technology News and Trends:**
-TechCrunch - Technology news and analysis.
-Ars Technica - News and analysis of technology trends.
-The Verge - Technology, science, art, and culture news.
+   - [TechCrunch](https://techcrunch.com/) - Technology news and analysis.
+   - [Ars Technica](https://arstechnica.com/) - News and analysis of technology trends.
+   - [The Verge](https://www.theverge.com/) - Technology, science, art, and culture news.
 6. **Project Management and Collaboration:**
-Trello - Collaborative project management.
-Asana - Project management and team collaboration.
-Slack - Team communication and collaboration.
+   - [Trello](https://trello.com/) - Collaborative project management.
+   - [Asana](https://asana.com/) - Project management and team collaboration.
+   - [Slack](https://slack.com/intl/en-in/) - Team communication and collaboration.
 7. **Podcasts and Video Content:**
-TED Talks - Inspirational talks on various subjects.
-YouTube - Educational channels and tutorials.
-Podcasts (e.g., Software Engineering Daily, The Changelog)
+   - [TED Talks](https://www.ted.com/playlists/171/the_most_popular_ted_talks_of_all_time) - Inspirational talks on various subjects.
+   - [YouTube](https://www.youtube.com/) - Educational channels and tutorials.
+   - [Podcasts](e.g., Software Engineering Daily, The Changelog)
 8. **Open Source Contributions:**
-First Timers Only - Resources for first-time open-source contributors.
-Up for Grabs - List of projects with tasks suitable for new contributors.
+   - [First Timers Only](https://www.firsttimersonly.com/) - Resources for first-time open-source contributors.
+   - [Up for Grabs](https://up-for-grabs.net/) - List of projects with tasks suitable for new contributors.
 9. **Language Learning:**
-Duolingo - Language learning app.
-Memrise - Language learning with a focus on vocabulary.
+   - [Duolingo](https://www.duolingo.com/) - Language learning app.
+   - [Memrise]((https://www.memrise.com/) - Language learning with a focus on vocabulary.
 10. **Career Development:**
-LinkedIn Learning - Professional development courses.
-Glassdoor - Company reviews and salary information.
+   - [LinkedIn Learning](https://www.linkedin.com/learning/topics/professional-development) - Professional development courses.
+   - [Glassdoor](https://www.glassdoor.co.in/index.htm) - Company reviews and salary information.
+
 Feel free to explore these resources to enhance your skills and stay updated on the latest trends in R, AR, and VR!
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
