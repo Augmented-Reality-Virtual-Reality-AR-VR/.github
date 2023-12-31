@@ -76,8 +76,9 @@
 ## Useful resources 👩‍💻 :computer: :books: :tools:
 
 1. **Learning Platforms:**
-       -  [Coursera][1]
-         [1]: [https://www.coursera.org/]
+       -  [Coursera][https://www.coursera.org/]
+
+   [1]: [https://www.coursera.org/]
       -   Coursera (https://www.coursera.org/)
       -   edX (https://https://www.edx.org/)
       -   Udacity (https://www.udacity.com/)
