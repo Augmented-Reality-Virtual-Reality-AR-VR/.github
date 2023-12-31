@@ -111,8 +111,8 @@
    - [Duolingo](https://www.duolingo.com/) - Language learning app.
    - [Memrise]((https://www.memrise.com/) - Language learning with a focus on vocabulary.
 10. **Career Development:**
-   - [LinkedIn Learning](https://www.linkedin.com/learning/topics/professional-development) - Professional development courses.
-   - [Glassdoor](https://www.glassdoor.co.in/index.htm) - Company reviews and salary information.
+      - [LinkedIn Learning](https://www.linkedin.com/learning/topics/professional-development) - Professional development courses.
+      - [Glassdoor](https://www.glassdoor.co.in/index.htm) - Company reviews and salary information.
 
 Feel free to explore these resources to enhance your skills and stay updated on the latest trends in R, AR, and VR!
 🍿 Fun facts - what does your team eat for breakfast?
