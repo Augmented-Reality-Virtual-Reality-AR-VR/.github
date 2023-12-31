@@ -73,7 +73,7 @@
     -  Include a link to the project's code of conduct, which outlines the expected behavior and sets the tone for respectful and inclusive collaboration.
    
       
-## Useful resources 👩‍💻 :computer: :books: :tools:
+## Useful resources 👩‍💻 :computer: :books: 
 
 1. **Learning Platforms:**
    - [Coursera](https://www.coursera.org/)
