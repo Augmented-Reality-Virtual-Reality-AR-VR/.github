@@ -22,7 +22,7 @@
 </p>
 
 
-## Contribution guidelines 🌈 :star2::star2::star2::star2:
+## Contribution Guidelines 🌈 :star2::star2::star2::star2:
 <p align="justify">
    Contribution guidelines typically refer to a set of instructions or recommendations that outline how 
    individuals can contribute effectively to a project, community, or open-source initiative. These guidelines 
@@ -109,7 +109,7 @@
    - [Up for Grabs](https://up-for-grabs.net/) - List of projects with tasks suitable for new contributors.
 9. **Language Learning:**
    - [Duolingo](https://www.duolingo.com/) - Language learning app.
-   - [Memrise]((https://www.memrise.com/) - Language learning with a focus on vocabulary.
+   - [Memrise](https://www.memrise.com/) - Language learning with a focus on vocabulary.
 10. **Career Development:**
       - [LinkedIn Learning](https://www.linkedin.com/learning/topics/professional-development) - Professional development courses.
       - [Glassdoor](https://www.glassdoor.co.in/index.htm) - Company reviews and salary information.
@@ -148,10 +148,10 @@ Here are some fun facts across different categories:
    - The voice actors for Mickey Mouse and Minnie Mouse got married in real life.
    - The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.
 10. **Food:**
-   - Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
-   - The world's most expensive coffee is made using civet poop. The beans are eaten by a civet, fermented in its digestive system, and then excreted.
-🍿 Fun facts - what does your team eat for breakfast?
+      - Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
+      - The world's most expensive coffee is made using civet poop. The beans are eaten by a civet, fermented in its digestive system, and then excreted.
 
 
+!--
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
