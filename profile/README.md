@@ -36,8 +36,7 @@ Here are some common elements often found in contribution guidelines:
    - Begin with a brief overview of the project, its goals, and the types of contributions that are welcome.
 
 2. **Prerequisites:**
-   - Clearly state any prerequisites or requirements contributors need to meet before getting started.
-   - This may include technical skills, knowledge of specific tools, or adherence to a particular coding style.
+   - Clearly state any prerequisites or requirements contributors need to meet before getting started. This may include technical skills, knowledge of specific tools, or adherence to a particular coding style.
 
 3. **Getting Started:**
    - Provide step-by-step instructions on how contributors can set up their development environment, clone the repository, and start making contributions.
