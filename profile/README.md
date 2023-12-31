@@ -28,7 +28,7 @@
    individuals can contribute effectively to a project, community, or open-source initiative. These guidelines 
    serve as a roadmap for contributors, helping them understand the expectations, processes, and best practices 
    for participating in a collaborative effort. While specific guidelines can vary depending on the context, 
-   Here are some common elements often found in contribution guidelines:
+   here are some common elements often found in contribution guidelines:
 </p>
 
 
