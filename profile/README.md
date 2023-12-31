@@ -22,7 +22,7 @@
 </p>
 
 
-## Contribution guidelines 🌈:star2::star2::star2::star2:
+## Contribution guidelines 🌈 :star2::star2::star2::star2:
 <p align="justify">
    Contribution guidelines typically refer to a set of instructions or recommendations that outline how 
    individuals can contribute effectively to a project, community, or open-source initiative. These guidelines 
