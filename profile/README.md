@@ -113,7 +113,7 @@
       - [LinkedIn Learning](https://www.linkedin.com/learning/topics/professional-development) - Professional development courses.
       - [Glassdoor](https://www.glassdoor.co.in/index.htm) - Company reviews and salary information.
 
-Feel free to explore these resources to enhance your skills and stay updated on the latest trends in R, AR, and VR!
+Feel free to explore these resources to enhance your skills and stay updated on the latest trends in XR, AR, and VR!
 
 ##  Fun Facts 🍿 :pizza: :hamburger: :icecream: :coffee:
 
